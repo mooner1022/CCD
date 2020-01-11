@@ -1,0 +1,43 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "kr.co.arduinocharger"
+    },
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "kr.co.arduinocharger"
+    },
+    "phonegap-plugin-battery-status": {
+      "PACKAGE_NAME": "kr.co.arduinocharger"
+    },
+    "cordova-plugin-ble-central": {
+      "PACKAGE_NAME": "kr.co.arduinocharger"
+    },
+    "cordova-plugin-snackbar": {
+      "PACKAGE_NAME": "kr.co.arduinocharger"
+    },
+    "cordova-plugin-local-notification": {
+      "PACKAGE_NAME": "kr.co.arduinocharger"
+    },
+    "cordova-plugin-background-mode": {
+      "PACKAGE_NAME": "kr.co.arduinocharger"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "kr.co.arduinocharger"
+    },
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "kr.co.arduinocharger"
+    },
+    "cordova-plugin-badge": {
+      "PACKAGE_NAME": "kr.co.arduinocharger"
+    }
+  }
+}
